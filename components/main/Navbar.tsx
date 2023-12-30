@@ -11,7 +11,7 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/Navlogo.png"
+            src="/Simrat Logo.png"
             alt="logo"
             width={70}
             height={70}
