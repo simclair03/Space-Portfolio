@@ -12,19 +12,19 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+          src="/workInprogress.png"
           title="Stock Predictor"
-          description="Progress"
+          description="Created a machine-learning model with neural networks using TensorFlow and Keras layers."
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="/workInprogress.png"
           title="Mars Weather App"
-          description="Mars"
+          description="Created a Mars weather application that accesses NASA API data archives to display weather conditions on Mars."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space-Themed Website"
-          description="Space"
+          src="/SpacePortProjectCardPic.png"
+          title="Space Themed Website"
+          description="Designed and created a space-themed website portfolio in Next.js 13 which is hosted using both GitHub and Vercel."  
         />
       </div>
     </div>
@@ -32,3 +32,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
