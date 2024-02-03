@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/workInprogress.png"
+          src="/stockmarkimagesave.jpg"
           title="Stock Predictor"
           description="Created a machine-learning model with neural networks using TensorFlow and Keras layers."
         />
